@@ -31,11 +31,10 @@ const styles = StyleSheet.create({
     borderRadius: 16,
     marginBottom: 42,
     height: 56,
-    width: 56,
   },
   buttonText: {
     color: colors.white,
-    fontSize: 24,
+    fontSize: 16,
   },
 });
 
